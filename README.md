@@ -8,7 +8,7 @@ AWS 자격증 시험(SAA-C03)을 준비하기 위한 퀴즈 앱입니다.
 
 
 ```bash
-git clone https://github.com/eess22/AWS_SAA_Quiz_KR.git
+git clone https://github.com/hahbr88/AWS_SAA_Quiz_KR.git
 cd AWS_SAA_Quiz_KR
 docker build -t aws-quiz-app .
 docker run -p 5173:5173 aws-quiz-app
